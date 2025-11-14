@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Los_Simpson
+namespace  Prac_GIT_J
 {
     public partial class Form1 : Form
     {
